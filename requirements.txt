@@ -1,0 +1,4 @@
+#requirements for the bot
+discord.py>=2.0.0
+pytz
+python-dotenv
