@@ -10,7 +10,7 @@ import os
 from base64 import b64encode, b64decode
 
 #tokenを指定する
-TOKEN = 'MTMyODU5NjE2NDQ3MTI5NjAxMw.Gd2YeB.qHkEXHTwWaika-OdhWqCnvBp9Spo5l8nAkeF9U'
+TOKEN = 'BOT_TOKEN_HERE'
 
 
 # Intentsの設定
